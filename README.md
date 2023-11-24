@@ -1,5 +1,6 @@
 npx create-react-app xxx
-/n npm start
+------------------
+npm start
 -------------------
 npm i bootstrap
 -------------------
